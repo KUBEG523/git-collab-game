@@ -1,5 +1,5 @@
 # Moduł testy
 
 Odpowiedzialny: Jano
-Stan: GOTOWY
+Stan: GOTOWY 
 Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
